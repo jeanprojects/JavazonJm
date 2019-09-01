@@ -1,0 +1,7 @@
+streaming\servlet\MyServiceServlet.class
+streaming\spring\SpringConfig.class
+streaming\spring\SpringConfigWebApplicationInitializer.class
+streaming\entity\Effacemoi.class
+streaming\service\MyService.class
+streaming\spring\AutowireServlet.class
+streaming\entity\Effacemoi_.class
